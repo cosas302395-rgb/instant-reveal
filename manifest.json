@@ -6,5 +6,7 @@
     "version": "1.0.0",
     "author": "TuNombre",
     "min_sillytavern_version": "1.10.0",
-    "entry": "instant-reveal.js"
+    "entry": "instant-reveal.js",
+    "type": "extension",
+    "enableable": true
 }
